@@ -12,12 +12,12 @@
 ##### 8.业务角度优化
 ##### 9.编译优化
 
-# 二. 性能优化难点:
+# 二. 性能优化难点:
 
 ##### 1.没有统一的标准
 ##### 2.用户的机器环境相关性较大
 
-# 二. 文档资料:
+# 三. 文档资料:
 
 ## 专题文档:
 
@@ -32,7 +32,7 @@
 
 [WWDC文档](./doc/WWDC/)
 
-## 业界方案:
+# 四. 业界方案:
 
 [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
 
@@ -46,7 +46,7 @@
 
 ##### 1. 内存泄露检测工具 ****MLeakFinder**** 
 
-[TODO 原理介绍]
+[TODO 原理介绍]
 
 ##### 2. FPS/SQL性能监测工具条
 该工具条是在DEBUG模式下，以浮窗的形式。实时展示当前可能存在问题的FPS次数和执行时间较长的SQL语句个数，随时查看FPS低于某个阈值时的堆栈信息，再结合当时的使用场景，开发人员使用起来非常便利，可以很快定位到引起卡顿的场景和原因
@@ -55,4 +55,4 @@
 
 ##### 3. UI/DataSource主线程检测工具
 
-由于大部分UI操作是非线程安全，所以在非UI线程中操作UI可能会导致app突然丢动画，UI操作偶尔响应特别慢，莫名的crash 这些问题。UI/DataSource主线程检测工具通过 hook UIView 的 ****-setNeedsLayout****，****-setNeedsDisplay****，****-setNeedsDisplayInRect**** 三个方法，确保它们都是在主线程执行。
+由于大部分UI操作是非线程安全，所以在非UI线程中操作UI可能会导致app突然丢动画，UI操作偶尔响应特别慢，莫名的crash 这些问题。UI/DataSource主线程检测工具通过 hook UIView 的 ****-setNeedsLayout****，****-setNeedsDisplay****，****-setNeedsDisplayInRect**** 三个方法，确保它们都是在主线程执行。
