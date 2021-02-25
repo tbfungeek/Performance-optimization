@@ -68,11 +68,11 @@
 [3 ⼿淘iOS性能优化探索](http://pstatic.geekbang.org/pdf/593a53d813cef.pdf?e=1497499485&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:sa-xp_aIeIhtiWbqR-hY4ImMzFc=)
 
 [4 LinkedIn移动应用的性能优化之道](https://ppt.infoq.cn/slide/show?cid=31&pid=1495)
-* 先从架构入手，引入组件化，化简架构，建立统一标准规范。
+* 先从架构入手，引入组件化，化简架构，建立统一标准规范。
 * 数据采集 - 端上性能数据采集 + 业务数据采集监控
-![](./linkin_0001.png)
-注意点：面向切面，避免侵入业务，上传时机（服务器压力+数据实效性）,业务优先级
-![](./linkin_0003.png)
-![](./linkin_0004.png)
+![](./img/linkin_0001.png)
+注意点：面向切面，避免侵入业务，上传时机（服务器压力+数据实效性）,业务优先级
+![](./img/linkin_0003.png)
+![](./img/linkin_0004.png)
 
 [5 美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
