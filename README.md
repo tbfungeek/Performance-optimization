@@ -41,8 +41,9 @@
 
 # 四. 业界方案:
 
-[1. 微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
-[2. 微信读书 iOS 质量保证及性能监控](http://wereadteam.github.io/2016/12/12/Monitor/)
+[微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
+
+[微信读书 iOS 质量保证及性能监控](http://wereadteam.github.io/2016/12/12/Monitor/)
 
 工具及方法：
 
@@ -72,9 +73,7 @@
 
 由于大部分UI操作是非线程安全，所有继承自UIResponder的类都需要在主线程操作，在非UI线程中操作UI可能会导致app突然丢动画，UI操作偶尔响应特别慢，莫名的crash 这些问题。UI/DataSource主线程检测工具通过 hook UIView, CALayer 的 ****-setNeedsLayout****，****-setNeedsDisplay****，****-setNeedsDisplayInRect**** 三个方法，确保它们都是在主线程执行。
 
-[3 ⼿淘iOS性能优化探索](http://pstatic.geekbang.org/pdf/593a53d813cef.pdf?e=1497499485&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:sa-xp_aIeIhtiWbqR-hY4ImMzFc=)
-
-[4 手Q iOS客户端性能监控和优化实践](https://static001.geekbang.org/con/42/pdf/3377855748/file/%E7%BD%97%E9%91%AB-%E6%89%8BQiOS%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E5%92%8C%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
+[手Q iOS客户端性能监控和优化实践](https://static001.geekbang.org/con/42/pdf/3377855748/file/%E7%BD%97%E9%91%AB-%E6%89%8BQiOS%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E5%92%8C%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
 ![](./img/qq_0001.png)
 ![](./img/qq_0002.png)
 ![](./img/qq_0003.png)
@@ -85,7 +84,7 @@
 
 [iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
 
-[5 LinkedIn移动应用的性能优化之道](https://ppt.infoq.cn/slide/show?cid=31&pid=1495)
+[LinkedIn移动应用的性能优化之道](https://ppt.infoq.cn/slide/show?cid=31&pid=1495)
 * 先从架构入手，引入组件化，化简架构，建立统一标准规范。
 * 数据采集 - 端上性能数据采集 + 业务数据采集监控
 ![](./img/linkin_0001.png)
@@ -93,5 +92,18 @@
 ![](./img/linkin_0003.png)
 ![](./img/linkin_0004.png)
 
-[6 美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
-[7 爱奇艺APP极致体验之路](https://ppt.infoq.cn/slide/show?cid=31&pid=1497)
+[去哪儿网客户端无埋点监控与性能优化实践](https://static001.geekbang.org/con/42/pdf/105012734/file/%E5%AD%9F%E8%B6%85-qunar-%E5%8E%BB%E5%93%AA%E5%84%BF%E7%BD%91%E5%85%AC%E5%85%B1%E4%BA%A7%E5%93%81%E9%83%A8%E5%A4%A7%E5%89%8D%E7%AB%AF%E8%B4%9F%E8%B4%A3%E4%BA%BA.pdf)
+
+![](./img/go_where_0001.png)
+![](./img/go_where_0002.png)
+![](./img/go_where_0003.png)
+![](./img/go_where_0004.png)
+![](./img/go_where_0005.png)
+![](./img/go_where_0006.png)
+![](./img/go_where_0007.png)
+
+[美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
+[爱奇艺APP极致体验之路](https://ppt.infoq.cn/slide/show?cid=31&pid=1497)
+[从重新认识前端渲染开始，小红书的前端性能监控及优化实践](https://static001.geekbang.org/con/42/pdf/988645838/file/%E6%9D%8E%E5%AD%A3%E9%AA%8F-%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%A4%BE%E5%8C%BA%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88.pdf)
+
+[⼿淘iOS性能优化探索](http://pstatic.geekbang.org/pdf/593a53d813cef.pdf?e=1497499485&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:sa-xp_aIeIhtiWbqR-hY4ImMzFc=)
