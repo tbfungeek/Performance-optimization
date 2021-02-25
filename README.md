@@ -39,6 +39,13 @@
 [GMTC 2017](http://gmtc2017.geekbang.org/#theme)
 [GMTC 2016](http://gmtc2016.geekbang.org/#theme)
 
+## QConChina:
+
+[QConBeijing2016](https://github.com/QConChina/QConShanghai2016)
+[QConBeijing2017](https://github.com/QConChina/QConBeijing2017)
+[QConBeijing2018](https://github.com/QConChina/QConShanghai2018)
+[QConBeijing2019](https://github.com/QConChina/QConBeijing2019)
+
 # 四. 业界方案:
 
 [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
@@ -130,6 +137,7 @@
 
 
 [美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
+
 [0.3秒完成渲染！信息流内容页“闪开”优化总结和思考](https://static001.geekbang.org/con/42/pdf/3069718189/file/%E5%BA%9E%E9%94%A6%E8%B4%B5-%E4%BF%A1%E6%81%AF%E6%B5%81%E5%86%85%E5%AE%B9%E9%A1%B5&ldquo;%E9%97%AA%E5%BC%80&rdquo;%E4%BC%98%E5%8C%96%E6%80%BB%E7%BB%93.pdf)
 [爱奇艺APP极致体验之路](https://ppt.infoq.cn/slide/show?cid=31&pid=1497)
 
