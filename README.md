@@ -32,6 +32,13 @@
 
 [WWDC文档](./doc/WWDC/)
 
+## GMTC 文档:
+
+[GMTC 2019](https://gmtc.infoq.cn/2019/beijing/#theme)
+[GMTC 2018](https://gmtc.infoq.cn/2018/beijing/#theme)
+[GMTC 2017](http://gmtc2017.geekbang.org/#theme)
+[GMTC 2016](http://gmtc2016.geekbang.org/#theme)
+
 # 四. 业界方案:
 
 [1. 微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
@@ -76,3 +83,4 @@
 ![](./img/linkin_0004.png)
 
 [5 美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
+[6 爱奇艺APP极致体验之路](https://ppt.infoq.cn/slide/show?cid=31&pid=1497)
