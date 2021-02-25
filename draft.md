@@ -44,3 +44,12 @@ https://github.com/ripperhe/Debugo
 https://github.com/HDB-Li/LLDebugTool
 https://github.com/square/PonyDebugger/
 https://lookin.work/
+
+
+开发过程中，主要是通过监控内存使用及泄露，CPU使用率，FPS，启动时间等指标，以及常见的UI的主线程监测，NSAssert断言等，最好能在Debug模式下，实时显示在界面上，针对出现的问题及早解决
+
+
+内存问题主要包括两个部分，一个是iOS中常见循环引用导致的内存泄露 ，另外就是大量数据加载及使用导致的内存警告。
+
+整个端到端监控的可以在多个维度上做查询端到端成功率、响应时间、访问量的查询，维度包括：返回码、网络、版本、平台、地区、运营商等。
+

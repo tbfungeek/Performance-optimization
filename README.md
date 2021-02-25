@@ -134,7 +134,7 @@
 ![](./img/bd_00020.png)
 ![](./img/bd_00021.png)
 
-
+[蘑菇街 App 的稳定性与性能实践](http://pstatic.geekbang.org/pdf/5809d9ef9b45b.pdf?e=1491025393&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:lKVEa3b-uxMSKW75daZyi0p32aQ=)
 
 [美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
 
@@ -147,3 +147,11 @@
 [⼿淘iOS性能优化探索](http://pstatic.geekbang.org/pdf/593a53d813cef.pdf?e=1497499485&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:sa-xp_aIeIhtiWbqR-hY4ImMzFc=)
 
 [B站的视频体验进化之路](https://static001.geekbang.org/con/42/pdf/3841774823/file/%E8%B0%AD%E5%85%86%E6%AD%86&mdash;GMTC%20B%E7%AB%99%E7%9A%84%E8%A7%86%E9%A2%91%E4%BD%93%E9%AA%8C%E8%BF%9B%E5%8C%96%E4%B9%8B%E8%B7%AF%20-%20bilibili%20.pdf)
+
+
+
+[iOS App 稳定性指标及监测](https://juejin.cn/post/6844903488757973006)
+
+[移动端监控体系之技术原理剖析](https://www.jianshu.com/p/8123fc17fe0e)
+
+[搜狗输入法性能优化实践](https://github.com/MDCC2016/iOS-Session-Slides/blob/master/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5-%E6%9D%8E%E8%85%BE%E6%9D%B0.pdf)
