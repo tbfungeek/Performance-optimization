@@ -38,15 +38,22 @@
 ## GMTC 文档:
 
 [GMTC 2019](https://gmtc.infoq.cn/2019/beijing/#theme)
+
 [GMTC 2018](https://gmtc.infoq.cn/2018/beijing/#theme)
+
 [GMTC 2017](http://gmtc2017.geekbang.org/#theme)
+
 [GMTC 2016](http://gmtc2016.geekbang.org/#theme)
 
-## QConChina:
+
+## QConChina:
 
 [QConBeijing2016](https://github.com/QConChina/QConShanghai2016)
+
 [QConBeijing2017](https://github.com/QConChina/QConBeijing2017)
+
 [QConBeijing2018](https://github.com/QConChina/QConShanghai2018)
+
 [QConBeijing2019](https://github.com/QConChina/QConBeijing2019)
 
 # 四. 业界方案:
