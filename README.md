@@ -130,10 +130,12 @@
 
 
 [美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
-
+[0.3秒完成渲染！信息流内容页“闪开”优化总结和思考](https://static001.geekbang.org/con/42/pdf/3069718189/file/%E5%BA%9E%E9%94%A6%E8%B4%B5-%E4%BF%A1%E6%81%AF%E6%B5%81%E5%86%85%E5%AE%B9%E9%A1%B5&ldquo;%E9%97%AA%E5%BC%80&rdquo;%E4%BC%98%E5%8C%96%E6%80%BB%E7%BB%93.pdf)
 [爱奇艺APP极致体验之路](https://ppt.infoq.cn/slide/show?cid=31&pid=1497)
 
 [从重新认识前端渲染开始，小红书的前端性能监控及优化实践](https://static001.geekbang.org/con/42/pdf/988645838/file/%E6%9D%8E%E5%AD%A3%E9%AA%8F-%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%A4%BE%E5%8C%BA%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88.pdf)
 
 
 [⼿淘iOS性能优化探索](http://pstatic.geekbang.org/pdf/593a53d813cef.pdf?e=1497499485&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:sa-xp_aIeIhtiWbqR-hY4ImMzFc=)
+
+[B站的视频体验进化之路](https://static001.geekbang.org/con/42/pdf/3841774823/file/%E8%B0%AD%E5%85%86%E6%AD%86&mdash;GMTC%20B%E7%AB%99%E7%9A%84%E8%A7%86%E9%A2%91%E4%BD%93%E9%AA%8C%E8%BF%9B%E5%8C%96%E4%B9%8B%E8%B7%AF%20-%20bilibili%20.pdf)
