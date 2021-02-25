@@ -74,7 +74,18 @@
 
 [3 ⼿淘iOS性能优化探索](http://pstatic.geekbang.org/pdf/593a53d813cef.pdf?e=1497499485&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:sa-xp_aIeIhtiWbqR-hY4ImMzFc=)
 
-[4 LinkedIn移动应用的性能优化之道](https://ppt.infoq.cn/slide/show?cid=31&pid=1495)
+[4 手Q iOS客户端性能监控和优化实践](https://static001.geekbang.org/con/42/pdf/3377855748/file/%E7%BD%97%E9%91%AB-%E6%89%8BQiOS%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E5%92%8C%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
+![](./img/qq_0001.png)
+![](./img/qq_0002.png)
+![](./img/qq_0003.png)
+![](./img/qq_0004.png)
+![](./img/qq_0005.png)
+![](./img/qq_0006.png)
+![](./img/qq_0007.png)
+
+[iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
+
+[5 LinkedIn移动应用的性能优化之道](https://ppt.infoq.cn/slide/show?cid=31&pid=1495)
 * 先从架构入手，引入组件化，化简架构，建立统一标准规范。
 * 数据采集 - 端上性能数据采集 + 业务数据采集监控
 ![](./img/linkin_0001.png)
@@ -82,5 +93,5 @@
 ![](./img/linkin_0003.png)
 ![](./img/linkin_0004.png)
 
-[5 美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
-[6 爱奇艺APP极致体验之路](https://ppt.infoq.cn/slide/show?cid=31&pid=1497)
+[6 美团客户端监控与异常排查实践](https://ppt.infoq.cn/slide/show?cid=31&pid=1500)
+[7 爱奇艺APP极致体验之路](https://ppt.infoq.cn/slide/show?cid=31&pid=1497)
