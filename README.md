@@ -56,6 +56,10 @@
 
 [QConBeijing2019](https://github.com/QConChina/QConBeijing2019)
 
+## APMCon:
+
+[中国应用性能管理大会](http://apmcon.cn/2016/index.html#yjsl)
+
 # 四. 业界方案:
 
 [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
@@ -190,4 +194,56 @@
 
 [搜狗输入法性能优化实践](https://github.com/MDCC2016/iOS-Session-Slides/blob/master/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5-%E6%9D%8E%E8%85%BE%E6%9D%B0.pdf)
 
+[iOS应用UI线程卡顿监控](https://mp.weixin.qq.com/s?__biz=MzI5MjEzNzA1MA==&mid=2650264136&idx=1&sn=052c1db8131d4bed8458b98e1ec0d5b0&chksm=f406837dc3710a6b49e76ce3639f671373b553e8a91b544e82bb8747e9adc7985fea1093a394#rd)
 
+
+[iOS-APM-Secrets 揭秘 APM iOS SDK 的核心技术](https://github.com/aozhimin/iOS-APM-Secrets)
+
+[网易 NeteaseAPM iOS SDK 技术实现分享](https://www.infoq.cn/article/netease-ios-sdk-neteaseapm-technology-share/)
+
+
+应用性能分析
+对当前应用请求的各项性能指标进行分析，如响应时间，吞吐量，下载速率等，帮助用户全面了解应用性能表现。
+
+错误分析
+分析应用每个域名的网络错误率及响应码错误率，快速定位应用问题。
+
+多维分析
+可以组合域名，地理位置，运营商，网络环境等参数，精确定位应用的性能问题。
+
+网络请求的响应时间，下载速率，状态码，错误码，网络状态等数据的收集；
+
+页面加载时间的收集，检查出慢交互页面；
+
+[iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
+
+[FSAPMSDK](https://github.com/Ericfengshi/FSAPMSDK)
+iOS APM (性能监控) - 数据采集实现调研。APM 监控，包含 系统信息、磁盘、CPU、内存、启动时间、FPS、卡顿、Crash、网络监控 等
+
+[Optimizing Facebook for iOS start time](https://engineering.fb.com/2015/11/20/ios/optimizing-facebook-for-ios-start-time/)
+
+[如何实现一个IOS网络监控组件](https://www.jianshu.com/p/c025dd2ac9cc)
+
+[性能可视化实践之路](http://www.doc88.com/p-3072311816896.html)
+
+[听云 - 移动 App 性能监测](http://createsz.com/upload/files/2017/4/%E5%90%AC%E4%BA%91APP%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD%E7%AE%A1%E7%90%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
+
+[iOS无埋点数据SDK实践之路](https://www.jianshu.com/p/69ce01e15042)
+
+[网易HubbleData无埋点SDK在iOS端的设计与实现](https://www.jianshu.com/p/f0c4e280357c)
+
+https://github.com/coderyi/NetworkEye
+
+https://github.com/kasketis/netfox
+
+我们必须依赖 Xcode 环境，并且联机的情况下进行分析工作
+
+连接超时、闪退、卡顿、崩溃、黑白屏、网络劫持、交互性能差、CPU 使用率问题、内存泄露、不良接口
+
+如 CPU 占用率、内存使用情况、FPS、冷启动、热启动时间，网络，耗电量等
+
+
+CPU 用户使用过程遭遇卡顿    导致手机发热发烫，电量被快速消耗完
+
+
+https://engineering.fb.com/
