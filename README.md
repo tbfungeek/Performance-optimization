@@ -299,6 +299,32 @@
 
 - ****启动优化****
 
+- [Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406)
+
+- [App Startup Time: Past, Present, and Future](https://developer.apple.com/videos/play/wwdc2017/413)
+
+- [如何精确度量 iOS App 的启动时间](https://www.jianshu.com/p/c14987eee107)
+
+- [优化 App 的启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)
+
+- [抖音 iOS 启动优化实战](https://www.infoq.cn/article/tx0tcv9h6lkvknokqn7i)
+
+- [今日头条iOS客户端启动速度优化](http://www.cocoachina.com/articles/18651)
+
+- [iOS App 启动性能优化](https://mp.weixin.qq.com/s/Kf3EbDIUuf0aWVT-UCEmbA)
+
+- [Facebook iOS App如何优化启动时间](http://www.cocoachina.com/articles/14870)
+
+- [iOS输入法启动速度优化](https://wenku.baidu.com/view/503f0b0649d7c1c708a1284ac850ad02de8007ea)
+
+- [[iOS]一次立竿见影的启动时间优化](https://juejin.cn/post/6844903525172903944)
+
+- [Mach-O 可执行文件](https://objccn.io/issue-6-3/)
+
+- [iOS app启动速度研究实践](https://zhuanlan.zhihu.com/p/38183046?from=1086193010&wm=3333_2001&weiboauthoruid=1690182120)
+
+- [iOS App冷启动治理：来自美团外卖的实践](https://mp.weixin.qq.com/s/jN3jaNrvXczZoYIRCWZs7w)
+
 - ****包体优化****
 
 - [iOS微信安装包瘦身](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&scene=24&srcid=0921TTAXHGHWKqckEHTvGzoA#rd)
