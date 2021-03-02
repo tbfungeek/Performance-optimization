@@ -256,6 +256,14 @@
 
 - ****内存优化:****
 
+- [Memory Usage Performance Guidelines](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160i)
+
+- [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416/)
+
+- [探索iOS内存分配](https://juejin.cn/post/6844903551366332423)
+
+- [OOM探究：XNU 内存状态管理](https://www.jianshu.com/p/4458700a8ba8)
+
 - ****卡顿优化:****
 
 - ****布局优化****
