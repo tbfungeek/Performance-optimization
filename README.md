@@ -68,6 +68,9 @@
 
 [微信iOS卡顿监控系统](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ%3D%3D&idx=1&mid=207890859&scene=23&sn=e98dd604cdb854e7a5808d2072c29162&srcid=0921FzoCw9j1W7n4uFYKuarC#rd)
 
+[iOS微信内存监控](https://wetest.qq.com/lab/view/367.html)
+
+[微信客户端团队负责人技术访谈：如何着手客户端性能监控和优化](http://www.52im.net/thread-921-1-1.html)
 
 判断标准:
 - FPS 降低
@@ -187,7 +190,6 @@
 [B站的视频体验进化之路](https://static001.geekbang.org/con/42/pdf/3841774823/file/%E8%B0%AD%E5%85%86%E6%AD%86&mdash;GMTC%20B%E7%AB%99%E7%9A%84%E8%A7%86%E9%A2%91%E4%BD%93%E9%AA%8C%E8%BF%9B%E5%8C%96%E4%B9%8B%E8%B7%AF%20-%20bilibili%20.pdf)
 
 
-
 [iOS App 稳定性指标及监测](https://juejin.cn/post/6844903488757973006)
 
 [移动端监控体系之技术原理剖析](https://www.jianshu.com/p/8123fc17fe0e)
@@ -216,25 +218,48 @@
 页面加载时间的收集，检查出慢交互页面；
 
 [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
+[Optimizing Facebook for iOS start time](https://engineering.fb.com/2015/11/20/ios/optimizing-facebook-for-ios-start-time/)
+[如何实现一个IOS网络监控组件](https://www.jianshu.com/p/c025dd2ac9cc)
+[性能可视化实践之路](http://www.doc88.com/p-3072311816896.html)
+[听云 - 移动 App 性能监测](http://createsz.com/upload/files/2017/4/%E5%90%AC%E4%BA%91APP%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD%E7%AE%A1%E7%90%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
+[iOS无埋点数据SDK实践之路](https://www.jianshu.com/p/69ce01e15042)
+[网易HubbleData无埋点SDK在iOS端的设计与实现](https://www.jianshu.com/p/f0c4e280357c)
+[美团移动端性能监控方案Hertz](https://tech.meituan.com/2016/12/19/hertz.html)
+[美团点评移动端性能监控方案Hertz](https://pic.huodongjia.com/ganhuodocs/2017-12-20/1513734352.2.pdf)
+[360移动端性能监控实践QDAS-APM](https://zhuanlan.51cto.com/art/201907/598907.htm)
+[360移动端性能监控实践 PPT](https://ppt.baomitu.com/d/b7a5169c#/)
 
-[FSAPMSDK](https://github.com/Ericfengshi/FSAPMSDK)
+
+# 五. 相关辅助调试工具及开源库:
+
+- [Lookin](https://lookin.work/)
+
+- [LLDebugTool](https://github.com/HDB-Li/LLDebugTool)
+
+- [Debugo](https://github.com/ripperhe/Debugo)
+
+- [FLEX](https://github.com/FLEXTool/FLEX)
+
+- [美图MTHawkeye](https://github.com/meitu/MTHawkeye) [MTHawkeye：美图开源的 iOS 调试辅助、性能优化工具集](https://www.infoq.cn/article/ydceol3agm*gcjlwgfmq)
+
+- [UC研发效能组 啄木鸟-App线上质量监控](https://www.yuque.com/wpk/help/welcome)
+
+- [啄幕鸟](https://github.com/alibaba/youku-sdk-tool-woodpecker) [啄幕鸟相关文档](https://www.jianshu.com/p/a862f2f69f68)
+
+- [声网 MoonLight源码](https://github.com/AgoraIO-Community/MoonLight) [声网 MoonLight 文档](https://brands.cnblogs.com/agora/p/2030)
+
+- [滴滴 DoraemonKit源码](https://github.com/didi/DoraemonKit) [滴滴 DoraemonKit 文档](https://www.infoq.cn/article/8vvwr5al97olrcuqknev) [iOS研发助手DoraemonKit技术实现(一)](https://www.jianshu.com/p/00763123dbc4) [iOS研发助手DoraemonKit技术实现(二)](http://www.javashuo.com/article/p-dgqvamog-kx.html)
+
+
+- [腾讯 Matrix](https://github.com/Tencent/matrix) [最新 Matrix-iOS 卡顿监控](https://blog.csdn.net/weixin_41963895/article/details/109177399)
+
+- [FSAPMSDK](https://github.com/Ericfengshi/FSAPMSDK)
 iOS APM (性能监控) - 数据采集实现调研。APM 监控，包含 系统信息、磁盘、CPU、内存、启动时间、FPS、卡顿、Crash、网络监控 等
 
-[Optimizing Facebook for iOS start time](https://engineering.fb.com/2015/11/20/ios/optimizing-facebook-for-ios-start-time/)
+- [NetworkEye](https://github.com/coderyi/NetworkEye)
+- [netfox](https://github.com/kasketis/netfox)
 
-[如何实现一个IOS网络监控组件](https://www.jianshu.com/p/c025dd2ac9cc)
-
-[性能可视化实践之路](http://www.doc88.com/p-3072311816896.html)
-
-[听云 - 移动 App 性能监测](http://createsz.com/upload/files/2017/4/%E5%90%AC%E4%BA%91APP%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD%E7%AE%A1%E7%90%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
-
-[iOS无埋点数据SDK实践之路](https://www.jianshu.com/p/69ce01e15042)
-
-[网易HubbleData无埋点SDK在iOS端的设计与实现](https://www.jianshu.com/p/f0c4e280357c)
-
-https://github.com/coderyi/NetworkEye
-
-https://github.com/kasketis/netfox
+- [PerfDog性能狗](https://perfdog.qq.com/)
 
 我们必须依赖 Xcode 环境，并且联机的情况下进行分析工作
 
