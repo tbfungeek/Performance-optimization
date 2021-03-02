@@ -368,8 +368,6 @@
 - [腾讯 Matrix](https://github.com/Tencent/matrix) [最新 Matrix-iOS 卡顿监控](https://blog.csdn.net/weixin_41963895/article/details/109177399)
 
 - [FSAPMSDK](https://github.com/Ericfengshi/FSAPMSDK)
-  iOS APM (性能监控) - 数据采集实现调研。APM 监控，包含 系统信息、磁盘、CPU、内存、启动时间、FPS、卡顿、Crash、网络监控 等
-
 
 - [iOS-System-Services](https://github.com/iOS-APM/iOS-System-Services)
 
