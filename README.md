@@ -238,8 +238,9 @@
 
 [360移动端性能监控实践 PPT](https://ppt.baomitu.com/d/b7a5169c#/)
 
+# 五. 专项:
 
-# 五. 相关辅助调试工具及开源库:
+# 六. 相关辅助调试工具及开源库:
 
 - [Lookin](https://lookin.work/)
 
@@ -265,7 +266,49 @@
 - [FSAPMSDK](https://github.com/Ericfengshi/FSAPMSDK)
   iOS APM (性能监控) - 数据采集实现调研。APM 监控，包含 系统信息、磁盘、CPU、内存、启动时间、FPS、卡顿、Crash、网络监控 等
 
-- [NetworkEye](https://github.com/coderyi/NetworkEye)
-- [netfox](https://github.com/kasketis/netfox)
+
+- [iOS-System-Services](https://github.com/iOS-APM/iOS-System-Services)
+
+- [SystemMonitor](https://github.com/iOS-APM/SystemMonitor)
+
+- [PerformanceTestingHelper](https://github.com/aozhimin/PerformanceTestingHelper)
+
+- [GT](https://github.com/Tencent/GT)
+
+- [GodEye](https://github.com/zixun/GodEye)
+
+- [ArgusAPM](https://github.com/Qihoo360/ArgusAPM)
+
+- [AppleTrace](https://github.com/everettjf/AppleTrace)
 
 - [PerfDog性能狗](https://perfdog.qq.com/)
+
+- [HTTPDNSLib-for-iOS](https://github.com/CNSRE/HTTPDNSLib-for-iOS)
+
+- [HTTPDNSLib-for-Android](https://github.com/CNSRE/HTTPDNSLib)
+
+- [NetworkEye](https://github.com/coderyi/NetworkEye)
+
+- [netfox](https://github.com/kasketis/netfox)
+
+- [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler)
+
+- [iOSMemoryBudgetTest](https://github.com/Split82/iOSMemoryBudgetTest)
+
+- [PerformanceMonitor](https://github.com/woshiccm/PerformanceMonitor)
+
+- [SwiftTrace](https://github.com/johnno1962/SwiftTrace)
+
+- [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift)
+
+- [SystemEye](https://github.com/zixun/SystemEye)
+
+- [AppPerformance](https://github.com/SilongLi/AppPerformance)
+
+- [GYMonitor](https://github.com/featuretower/GYMonitor)
+
+- [LinkMap](https://github.com/huanxsd/LinkMap)
+
+- [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)
+
+
