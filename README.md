@@ -242,6 +242,18 @@
 
 - ****网络优化****
 
+- [美团点评移动网络优化实践](https://tech.meituan.com/2017/03/17/shark-sdk.html)
+
+- [开源版HttpDNS方案详解](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209805123&idx=1&sn=ced8d67c3e2cc3ca38ef722949fa21f8)
+
+- [携程 App 的网络性能优化实践](https://www.infoq.cn/article/how-ctrip-improves-app-networking-performance/)
+
+- [2016 年携程 App 网络服务通道治理和性能优化实践](https://www.infoq.cn/article/app-network-service-and-performance-optimization-of-ctrip/)
+
+- [蘑菇街 App Chromium 网络栈实践](https://www.infoq.cn/article/mogujie-app-chromium-network-layer/)
+
+- [移动 APP 网络优化概述](http://blog.cnbang.net/tech/3531/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 - ****内存优化:****
 
 - ****卡顿优化:****
