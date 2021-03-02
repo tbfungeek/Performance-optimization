@@ -301,6 +301,18 @@
 
 - ****包体优化****
 
+- [iOS微信安装包瘦身](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&scene=24&srcid=0921TTAXHGHWKqckEHTvGzoA#rd)
+
+- [今日头条 iOS 安装包大小优化—— 新阶段、新实践](https://www.infoq.cn/article/iowjwhbirqeobzf5m2o8)
+
+- [iOS 瘦身之删除 FrameWork 中无用 mach-O 文件](https://www.infoq.cn/article/ios-thinning-delete-unnecessary-mach-o/)
+
+- [基于 clang 插件的一种 iOS 包大小瘦身方案](https://www.infoq.cn/article/clang-plugin-ios-app-size-reducing/)
+
+- [iOS可执行文件瘦身方法](http://blog.cnbang.net/tech/2544/)
+
+- [iOS 端瘦身实践的 Slides](https://ming1016.github.io/2017/06/12/gmtc-ios-slimming-practice/)
+
 - ****编译优化****
 
 - ****构建优化****
