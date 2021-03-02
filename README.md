@@ -285,6 +285,18 @@
 
 - ****电量优化****
 
+- [Energy Efficiency Guide for iOS Apps](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html#//apple_ref/doc/uid/TP40015243-CH3-SW1)
+
+- [Writing Energy Efficient Apps](https://developer.apple.com/videos/play/wwdc2017/238/)
+
+- [iOS 常见耗电量检测方案调研](https://github.com/ChenYilong/iOSBlog/issues/10)
+
+- [教你开发省电的 iOS app（WWDC17 观后）](https://www.jianshu.com/p/f0dc653d04ca)
+
+- [浅析移动蜂窝网络的特点及其省电方案](https://juejin.cn/post/6844903511608524813)
+
+- [iOS进阶--App功耗优化看这篇就够了](http://www.cocoachina.com/articles/21428)
+
 - ****启动优化****
 
 - ****包体优化****
