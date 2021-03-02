@@ -266,6 +266,21 @@
 
 - ****卡顿优化:****
 
+- [UIKit性能调优实战讲解](http://www.cocoachina.com/articles/15238)
+
+- [QQ空间掉帧率优化实战](https://wetest.qq.com/lab/view/354.html)
+
+- [实现 60fps 的网易云音乐首页](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379069&idx=1&sn=376d9ef2261cf13e930406f1c35d3569)
+
+- [iOS 保持界面流畅的技巧](https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+
+- [iOS 性能优化总结](http://www.cocoachina.com/articles/22990)
+
+- [iOS实时卡顿监控](https://www.cnblogs.com/gatsbywang/p/5555200.html)
+
+- [iOS应用UI线程卡顿监控](https://mp.weixin.qq.com/s?__biz=MzI5MjEzNzA1MA==&mid=2650264136&idx=1&sn=052c1db8131d4bed8458b98e1ec0d5b0&chksm=f406837dc3710a6b49e76ce3639f671373b553e8a91b544e82bb8747e9adc7985fea1093a394#rd)
+
+
 - ****布局优化****
 
 - ****电量优化****
