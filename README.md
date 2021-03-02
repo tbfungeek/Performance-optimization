@@ -203,7 +203,6 @@
 
 [网易 NeteaseAPM iOS SDK 技术实现分享](https://www.infoq.cn/article/netease-ios-sdk-neteaseapm-technology-share/)
 
-
 应用性能分析
 对当前应用请求的各项性能指标进行分析，如响应时间，吞吐量，下载速率等，帮助用户全面了解应用性能表现。
 
@@ -218,15 +217,25 @@
 页面加载时间的收集，检查出慢交互页面；
 
 [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
+
 [Optimizing Facebook for iOS start time](https://engineering.fb.com/2015/11/20/ios/optimizing-facebook-for-ios-start-time/)
+
 [如何实现一个IOS网络监控组件](https://www.jianshu.com/p/c025dd2ac9cc)
+
 [性能可视化实践之路](http://www.doc88.com/p-3072311816896.html)
+
 [听云 - 移动 App 性能监测](http://createsz.com/upload/files/2017/4/%E5%90%AC%E4%BA%91APP%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD%E7%AE%A1%E7%90%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
+
 [iOS无埋点数据SDK实践之路](https://www.jianshu.com/p/69ce01e15042)
+
 [网易HubbleData无埋点SDK在iOS端的设计与实现](https://www.jianshu.com/p/f0c4e280357c)
+
 [美团移动端性能监控方案Hertz](https://tech.meituan.com/2016/12/19/hertz.html)
+
 [美团点评移动端性能监控方案Hertz](https://pic.huodongjia.com/ganhuodocs/2017-12-20/1513734352.2.pdf)
+
 [360移动端性能监控实践QDAS-APM](https://zhuanlan.51cto.com/art/201907/598907.htm)
+
 [360移动端性能监控实践 PPT](https://ppt.baomitu.com/d/b7a5169c#/)
 
 
@@ -251,24 +260,12 @@
 - [滴滴 DoraemonKit源码](https://github.com/didi/DoraemonKit) [滴滴 DoraemonKit 文档](https://www.infoq.cn/article/8vvwr5al97olrcuqknev) [iOS研发助手DoraemonKit技术实现(一)](https://www.jianshu.com/p/00763123dbc4) [iOS研发助手DoraemonKit技术实现(二)](http://www.javashuo.com/article/p-dgqvamog-kx.html)
 
 
-- [腾讯 Matrix](https://github.com/Tencent/matrix) [最新 Matrix-iOS 卡顿监控](https://blog.csdn.net/weixin_41963895/article/details/109177399)
+- [腾讯 Matrix](https://github.com/Tencent/matrix) [最新 Matrix-iOS 卡顿监控](https://blog.csdn.net/weixin_41963895/article/details/109177399)
 
 - [FSAPMSDK](https://github.com/Ericfengshi/FSAPMSDK)
-iOS APM (性能监控) - 数据采集实现调研。APM 监控，包含 系统信息、磁盘、CPU、内存、启动时间、FPS、卡顿、Crash、网络监控 等
+  iOS APM (性能监控) - 数据采集实现调研。APM 监控，包含 系统信息、磁盘、CPU、内存、启动时间、FPS、卡顿、Crash、网络监控 等
 
 - [NetworkEye](https://github.com/coderyi/NetworkEye)
 - [netfox](https://github.com/kasketis/netfox)
 
 - [PerfDog性能狗](https://perfdog.qq.com/)
-
-我们必须依赖 Xcode 环境，并且联机的情况下进行分析工作
-
-连接超时、闪退、卡顿、崩溃、黑白屏、网络劫持、交互性能差、CPU 使用率问题、内存泄露、不良接口
-
-如 CPU 占用率、内存使用情况、FPS、冷启动、热启动时间，网络，耗电量等
-
-
-CPU 用户使用过程遭遇卡顿    导致手机发热发烫，电量被快速消耗完
-
-
-https://engineering.fb.com/

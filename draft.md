@@ -13,7 +13,17 @@ http://www.lib4dev.in/info/skyming/iOS-Performance-Optimization/58248014
 
 
 
+我们必须依赖 Xcode 环境，并且联机的情况下进行分析工作
 
+连接超时、闪退、卡顿、崩溃、黑白屏、网络劫持、交互性能差、CPU 使用率问题、内存泄露、不良接口
+
+如 CPU 占用率、内存使用情况、FPS、冷启动、热启动时间，网络，耗电量等
+
+
+CPU 用户使用过程遭遇卡顿    导致手机发热发烫，电量被快速消耗完
+
+
+https://engineering.fb.com/
 
 
 开发过程中，主要是通过监控内存使用及泄露，CPU使用率，FPS，启动时间等指标，以及常见的UI的主线程监测，NSAssert断言等，最好能在Debug模式下，实时显示在界面上，针对出现的问题及早解决
