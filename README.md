@@ -284,6 +284,12 @@
 
 - [iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
 
+- [MLeaksFinder](https://github.com/Tencent/MLeaksFinder)
+
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
+
+- [FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker)
+
 - ****卡顿优化:****
 
 - [UIKit性能调优实战讲解](http://www.cocoachina.com/articles/15238)
