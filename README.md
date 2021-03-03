@@ -129,8 +129,6 @@
 ![](./img/qq_0006.png)
 ![](./img/qq_0007.png)
 
-[iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
-
 [LinkedIn移动应用的性能优化之道](https://ppt.infoq.cn/slide/show?cid=31&pid=1495)
 * 先从架构入手，引入组件化，化简架构，建立统一标准规范。
 * 数据采集 - 端上性能数据采集 + 业务数据采集监控
@@ -263,6 +261,28 @@
 - [探索iOS内存分配](https://juejin.cn/post/6844903551366332423)
 
 - [OOM探究：XNU 内存状态管理](https://www.jianshu.com/p/4458700a8ba8)
+
+- [你真的了解OOM吗？——京东iOS APP内存优化实录](http://www.cocoachina.com/index.php/articles/485753)
+
+- [iOS微信内存监控](https://wetest.qq.com/lab/view/367.html)
+
+- [iOS 性能优化实践：头条抖音如何实现 OOM 崩溃率下降 50%+](https://www.infoq.cn/article/ox7u3ymwiwzamt1vgm7m)
+
+- [iOS Out-Of-Memory 原理阐述及方案调研](https://juejin.cn/post/6844903749836603400)
+
+- [The case of iOS OOM Crashes at Compass](https://medium.com/compass-true-north/the-case-of-ios-oom-crashes-at-compass-96ec812397e8)
+
+- [深入了解iOS中的OOM(低内存崩溃)](https://blog.csdn.net/TuGeLe/article/details/104004692)
+
+- [iOS开发实践-OOM治理](https://www.cnblogs.com/kenshincui/p/13153681.html)
+
+- [Reducing FOOMs in the Facebook iOS app](https://engineering.fb.com/2015/08/24/ios/reducing-fooms-in-the-facebook-ios-app/)
+
+- [带你打造一套 APM 监控系统 之 OOM 问题](https://www.ershicimi.com/p/474c2f6f8e09bfe9df2a99e984d16448)
+
+- [TBOOMDetector](https://github.com/trailbehind/TBOOMDetector)
+
+- [iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
 
 - ****卡顿优化:****
 
