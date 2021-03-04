@@ -288,6 +288,10 @@
 
 - [iOS爆内存问题解决方案-OOMDetector组件](https://cloud.tencent.com/developer/article/1071808)
 
+- [进阶：iOS 性能优化系列](https://cloud.tencent.com/developer/inventory/513)
+
+- [Matrix-iOS 内存监控](https://cloud.tencent.com/developer/inventory/513/article/1427932)
+
 - [TBOOMDetector](https://github.com/trailbehind/TBOOMDetector)
 
 - [iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
