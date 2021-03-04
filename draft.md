@@ -85,4 +85,7 @@ FPS监控
 提测单： https://www.tapd.cn/47540949/prong/tasks/view/1147540949001096626
 
 
+为基类 NSObject 添加一个方法 -willDealloc 方法，该方法的作用是，先用一个弱指针指向 self，并在一小段时间(2秒)后，通过这个弱指针调用 -assertNotDealloc
+
+
 

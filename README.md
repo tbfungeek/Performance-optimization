@@ -268,6 +268,8 @@
 
 - [iOS 性能优化实践：头条抖音如何实现 OOM 崩溃率下降 50%+](https://www.infoq.cn/article/ox7u3ymwiwzamt1vgm7m)
 
+- [iOS 内存管理研究 即刻技术团队](https://zhuanlan.zhihu.com/p/49829766)
+
 - [iOS Out-Of-Memory 原理阐述及方案调研](https://juejin.cn/post/6844903749836603400)
 
 - [The case of iOS OOM Crashes at Compass](https://medium.com/compass-true-north/the-case-of-ios-oom-crashes-at-compass-96ec812397e8)
@@ -279,6 +281,10 @@
 - [Reducing FOOMs in the Facebook iOS app](https://engineering.fb.com/2015/08/24/ios/reducing-fooms-in-the-facebook-ios-app/)
 
 - [带你打造一套 APM 监控系统 之 OOM 问题](https://www.ershicimi.com/p/474c2f6f8e09bfe9df2a99e984d16448)
+
+- [Learn more about oom (low memory crash) in iOS](https://programmer.ink/think/learn-more-about-oom-low-memory-crash-in-ios.html)
+
+- [Handling low memory conditions in iOS and Mavericks](http://www.newosxbook.com/articles/MemoryPressure.html)
 
 - [TBOOMDetector](https://github.com/trailbehind/TBOOMDetector)
 
