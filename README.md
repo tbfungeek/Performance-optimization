@@ -286,6 +286,8 @@
 
 - [Handling low memory conditions in iOS and Mavericks](http://www.newosxbook.com/articles/MemoryPressure.html)
 
+- [iOS爆内存问题解决方案-OOMDetector组件](https://cloud.tencent.com/developer/article/1071808)
+
 - [TBOOMDetector](https://github.com/trailbehind/TBOOMDetector)
 
 - [iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
