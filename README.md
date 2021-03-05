@@ -292,6 +292,8 @@
 
 - [Matrix-iOS 内存监控](https://cloud.tencent.com/developer/inventory/513/article/1427932)
 
+- [关于iOS内存的深入排查和优化](https://juejin.cn/post/6844904056863850504)
+
 - [TBOOMDetector](https://github.com/trailbehind/TBOOMDetector)
 
 - [iOS内存监控组件 OOMDetector](https://github.com/Tencent/OOMDetector)
@@ -303,6 +305,14 @@
 - [FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker)
 
 - ****卡顿优化:****
+
+- [使用RunLoop检测卡顿](https://juejin.cn/post/6844903987620085774)
+
+- [iOS之如何利用 RunLoop 原理去监控卡顿?](https://www.jianshu.com/p/7d30c3319610)
+
+- [OpenGL-05-屏幕卡顿原因及iOS下的渲染](https://juejin.cn/post/6866062051573006343)
+
+- [Matrix Android TraceCanary](https://github.com/Tencent/matrix/wiki/Matrix-Android-TraceCanary)
 
 - [UIKit性能调优实战讲解](http://www.cocoachina.com/articles/15238)
 
