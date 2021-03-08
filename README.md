@@ -328,6 +328,8 @@
 
 - [iOS应用UI线程卡顿监控](https://mp.weixin.qq.com/s?__biz=MzI5MjEzNzA1MA==&mid=2650264136&idx=1&sn=052c1db8131d4bed8458b98e1ec0d5b0&chksm=f406837dc3710a6b49e76ce3639f671373b553e8a91b544e82bb8747e9adc7985fea1093a394#rd)
 
+- [iOS 稳定性问题治理：卡死崩溃监控原理及最佳实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247488080&idx=1&sn=39d0386b97b9ac06c6af1966f48387fc&chksm=e9d0d9b2dea750a4a7d21fd383aefa014d63f0dc79f2e3a13c97ad52bba1578dca8b50d6a40a&mpshare=1&scene=1&srcid=0308QVajza9g2A8XGNXol0pt&sharer_sharetime=1615170611319&sharer_shareid=ed983f2b16bf3b5b0d8e724a6f1aa7a7&version=3.1.2.6203&platform=mac#rd)
+
 
 - ****布局优化****
 
